@@ -1,4 +1,4 @@
-# Comandos do Git smirk_cat
+# Comandos do Git
 
 Para configurar nova instalação - usuário:
 git config --global user.name "(colocar usuário)"
